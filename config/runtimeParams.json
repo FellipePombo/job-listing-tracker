@@ -1,0 +1,14 @@
+{
+  "keywords": "software engineer",
+  "location": "remote",
+  "salary": {
+    "min": 60000,
+    "max": 120000
+  },
+  "experienceLevel": [
+    "junior"
+  ],
+  "jobType": [],
+  "workModel": [],
+  "datePosted": "7d"
+}
