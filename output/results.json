@@ -1,6 +1,127 @@
 {
   "linkedin": {
-    "title": "+ de 128.000 vagas em: Estados Unidos",
-    "timestamp": "2026-03-28T18:27:22.223Z"
+    "jobsScraped": [
+      {
+        "title": "Retail Analyst & Client Insights",
+        "subtitle": "Prada Group",
+        "location": "Nova York, Nova York, Estados Unidos",
+        "benefits": "Plano de saúde + 5 benefícios"
+      },
+      {
+        "title": "Sales Operations Associate",
+        "subtitle": "LinkedIn",
+        "location": "Nova York, Nova York, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Product Designer",
+        "subtitle": "LinkedIn",
+        "location": "Mountain View, Califórnia, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Mid-Market Account Executive, LinkedIn Talent Solutions",
+        "subtitle": "LinkedIn",
+        "location": "Nova York, Nova York, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Graphic Designer",
+        "subtitle": "Printemps New York",
+        "location": "Nova Iorque e Região",
+        "benefits": ""
+      },
+      {
+        "title": "Analyst, Merchandising",
+        "subtitle": "Harry Winston",
+        "location": "Nova York, Estados Unidos",
+        "benefits": "Plano de saúde + 3 benefícios"
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "Washington, Distrito de Colúmbia, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Personal Assistant | $75/hr Remote",
+        "subtitle": "Crossing Hurdles",
+        "location": "Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "Dallas, Texas, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "San Diego, Califórnia, Estados Unidos",
+        "benefits": "Seja um dos primeiros a se candidatar"
+      },
+      {
+        "title": "Analyst, Leveraged Finance Investment Banking - New York City, New York",
+        "subtitle": "Scotiabank",
+        "location": "Nova York, Nova York, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Relationship Manager - Remote",
+        "subtitle": "Experian",
+        "location": "Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Analyst/Associate Investment Banking, Industrials - New York, NY",
+        "subtitle": "Scotiabank",
+        "location": "Nova York, Nova York, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "Miami, Flórida, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "San Francisco, Califórnia, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Front Desk Agent | $75/hr Remote",
+        "subtitle": "Crossing Hurdles",
+        "location": "Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Document & Presentation Specialist (Excel, PowerPoint & Formatting) | Remote",
+        "subtitle": "Crossing Hurdles",
+        "location": "Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "McKinney Cabin Crew Opportunities (Dubai Based, Relocation Provided)",
+        "subtitle": "Emirates",
+        "location": "Mckinney, Texas, Estados Unidos",
+        "benefits": "Seja um dos primeiros a se candidatar"
+      },
+      {
+        "title": "Associate Strategic Finance – LinkedIn Marketing Solutions",
+        "subtitle": "LinkedIn",
+        "location": "San Francisco, Califórnia, Estados Unidos",
+        "benefits": ""
+      },
+      {
+        "title": "Psychologist Assistant (Remote)",
+        "subtitle": "Mind Friend",
+        "location": "San António, Texas, Estados Unidos",
+        "benefits": "Seja um dos primeiros a se candidatar"
+      }
+    ],
+    "timestamp": "2026-03-28T22:07:03.202Z"
   }
 }
