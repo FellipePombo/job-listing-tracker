@@ -9,7 +9,7 @@ const PARAMS_SCHEMA = {
     location: {
       type: "string",
       label: "Location",
-      default: "remote",
+      default: "United States",
       required: true
     },
   

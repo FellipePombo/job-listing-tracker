@@ -1,14 +1,25 @@
 {
-  "keywords": "software engineer",
-  "location": "remote",
+  "keywords": "data analyst",
+  "location": "porto, portugal",
   "salary": {
-    "min": 60000,
-    "max": 120000
+    "min": "0",
+    "max": "0"
   },
   "experienceLevel": [
+    "intern",
+    "assistant",
     "junior"
   ],
-  "jobType": [],
-  "workModel": [],
-  "datePosted": "7d"
+  "jobType": [
+    "full-time",
+    "part-time",
+    "contract",
+    "internship"
+  ],
+  "workModel": [
+    "onsite",
+    "hybrid",
+    "remote"
+  ],
+  "datePosted": "anytime"
 }

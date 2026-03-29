@@ -33,8 +33,16 @@ function validateParams(params, schema = PARAMS_SCHEMA) {
     const value = params[key];
 
     if (field.type === "enum") {
-      if (!field.values.includes(value)) {
-        throw new Error(`Invalid ${key}: ${value}`);
+      if (Array.isArray(value)) {
+        for (const v of value) {
+          if (!field.values.includes(v)) {
+            throw new Error(`${field.values} Invalid ${key}: ${v}`);
+          }
+        }
+      } else {
+        if (!field.values.includes(value)) {
+          throw new Error(`${field.values} Invalid ${key}: ${value}`);
+        }
       }
     }
 
@@ -72,6 +80,11 @@ function saveParams(params) {
 
 function updateParams(current, updates) {
   const merged = { ...current };
+
+  if(updates["clean"]){
+   const defaults = buildDefaults();
+   return defaults;
+  }
 
   for (const key in updates) {
     if (typeof updates[key] === "object" && !Array.isArray(updates[key])) {

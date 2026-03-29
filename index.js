@@ -1,4 +1,5 @@
 const { launchBrowser } = require('./utils/browser');
+const { getParams } = require('./utils/input');
 const scrapers = require('./config/sites');
 const fs = require('fs');
 
@@ -16,7 +17,9 @@ const {
   for (const site of scrapers) {
     try {
       console.log(`Running scraper: ${site.name}`);
-      const params = loadParams();
+      const oldParams = loadParams();
+      const inputParams = await getParams();
+      const params = updateParams(oldParams,inputParams);
 
       const data = await site.run(page, params);
       results[site.name] = data;
@@ -28,5 +31,5 @@ const {
 
   fs.writeFileSync('./output/results.json', JSON.stringify(results, null, 2));
 
-  //await browser.close();
+  await browser.close();
 })();
