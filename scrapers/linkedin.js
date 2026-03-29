@@ -1,7 +1,5 @@
 module.exports = async (page, params) => {
     searchLink = buildLink(params);
-    console.log(searchLink);
-    console.log(params);
 
     
     await page.goto(searchLink);
@@ -16,8 +14,10 @@ module.exports = async (page, params) => {
       while(i < jobs.length && i < 20){
         let jobScraped = {};
         const info = await jobs[i].$('.base-search-card__info');
-        console.log(info);
         const metadata = await info.$('.base-search-card__metadata');
+        const link = await jobs[i].$('.base-card__full-link');
+
+        jobScraped["link"] = link ? await link.evaluate(el => el.href) : ""
 
         const title = await info.$('.base-search-card__title');
         jobScraped["title"] = title ? await title.evaluate(el => el.innerText) : "";
@@ -34,7 +34,6 @@ module.exports = async (page, params) => {
         i++;
       }
     }
-    console.log(jobsScraped);
 
   
     return {
@@ -84,7 +83,18 @@ module.exports = async (page, params) => {
   function buildLink(params){
     link = "https://www.linkedin.com/jobs/search?";
     
-    
+    link += "keywords=" + params["keywords"].split(" ").join("%20") + "&";
+    link += "location=" + params["location"].split(/[ ,]/).join("%20") + "&";
+
+    let wageMin = params["salary"]["min"]
+    if(wageMin){
+      let wageKey = 0;
+      while(wageMin >= 20000 + 20000*wageKey+1 ){
+        wageKey++;
+      }
+      if(wageKey > 0) link += `f_SB2=${wageKey}&`
+    }
+
     for (const key in LINKEDIN_MAPPINGS){
         if (key == "datePosted"){
             link += `f_TPR=${LINKEDIN_MAPPINGS["datePosted"][params["datePosted"]]}&`
