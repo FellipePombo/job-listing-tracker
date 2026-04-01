@@ -1,6 +1,6 @@
 {
-  "keywords": "data analyst",
-  "location": "porto, portugal",
+  "keywords": "software developer",
+  "location": "porto",
   "salary": {
     "min": "0",
     "max": "0"
@@ -8,18 +8,15 @@
   "experienceLevel": [
     "intern",
     "assistant",
-    "junior"
+    "junior",
+    "mid",
+    "senior"
   ],
   "jobType": [
-    "full-time",
-    "part-time",
-    "contract",
-    "internship"
+    "full-time"
   ],
   "workModel": [
-    "onsite",
-    "hybrid",
-    "remote"
+    "onsite"
   ],
   "datePosted": "anytime"
 }
