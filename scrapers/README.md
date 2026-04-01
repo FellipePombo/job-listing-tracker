@@ -47,3 +47,37 @@ f_SB2=2 +de 60.000usd
 f_SB2=3 +de 80.000usd
 f_SB2=4 +de 100.000usd
 f_SB2=5 +de 120.000usd
+
+
+## Net-Empregos
+
+### Search Link Parameters
+
+Initial Link = https://www.net-empregos.com/pesquisa-empregos.asp?
+
+character between each parameter = &
+
+
+Keywords:
+chaves=word&
+
+concatenation of parameters on link (multiple viable options): word + word
+
+Location:
+cidade=word&
+
+This is a portuguese so location needs to be a portuguese city for results.
+
+concatenation of parameters on link (multiple viable options): word + word
+
+Job Type
+
+tipo=0& any type
+tipo=1& full time
+tipo=2& half time 
+tipo=3& internship 
+tipo=4& remote
+
+No concatenation (only one type per search)
+
+

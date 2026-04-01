@@ -2,146 +2,251 @@
   "linkedin": {
     "jobsScraped": [
       {
-        "link": "https://pt.linkedin.com/jobs/view/people-data-analyst-at-farfetch-4387843613?position=1&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=qxpAVtWp09irhSEhDGZhxw%3D%3D",
-        "title": "People Data Analyst",
-        "subtitle": "FARFETCH",
-        "location": "Porto, Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-m-f-d-at-kuehne%2Bnagel-4367341940?position=2&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=JRMZvp81D5%2FgItKMDD2PSw%3D%3D",
-        "title": "Data Analyst (m/f/d)",
-        "subtitle": "Kuehne+Nagel",
-        "location": "Porto, Portugal",
-        "benefits": "Contratando agora"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/business-intelligence-analyst-at-metyis-4328782199?position=3&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=3BGuzoVWmCVXNeEWlSCjzw%3D%3D",
-        "title": "Business Intelligence Analyst",
-        "subtitle": "Metyis",
-        "location": "Porto, Porto, Portugal",
-        "benefits": "Contratando agora"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-and-communication-expert-m-f-div-at-keenfinity-group-4386776319?position=4&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=H4X9DHr90%2B%2FE3u2c553IZw%3D%3D",
-        "title": "Data Analyst and communication expert (m/f/div.)",
-        "subtitle": "Keenfinity Group",
-        "location": "Ovar, Aveiro, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-french-speaker-bpce-si-at-natixis-in-portugal-4380281824?position=5&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Lm1Y8Q7DecdER0OCBcURZA%3D%3D",
-        "title": "Data Analyst (French Speaker) | BPCE SI",
-        "subtitle": "Natixis in Portugal",
-        "location": "Porto, Porto, Portugal",
-        "benefits": ""
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/gcp-power-bi-data-analyst-french-speaker-bpce-si-at-natixis-in-portugal-4388468546?position=6&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=nYl4%2BVMH2g7ytLn%2FD1yIjw%3D%3D",
-        "title": "GCP/Power BI Data Analyst (French Speaker) | BPCE-SI",
-        "subtitle": "Natixis in Portugal",
-        "location": "Porto, Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/vacancy-of-junior-doctoral-researcher-plant-molecular-biology-and-data-analysis-at-escola-superior-de-biotecnologia-da-universidade-cat%C3%B3lica-portuguesa-4204335399?position=7&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=ED7UP%2BYeJf0UFbGCkxbuzg%3D%3D",
-        "title": "Vacancy of Junior Doctoral Researcher - Plant Molecular Biology and Data Analysis",
-        "subtitle": "Escola Superior de Biotecnologia da Universidade Católica Portuguesa",
-        "location": "Porto, Porto, Portugal",
-        "benefits": ""
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/intelligence-business-analyst-at-sovos-latinoam%C3%A9rica-4381129721?position=8&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Gk4Vo7GucjgzrAzj3%2B7MUA%3D%3D",
-        "title": "Intelligence Business Analyst",
-        "subtitle": "Sovos Latinoamérica",
-        "location": "Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/senior-powerbi-dwh-spezialist-at-l%C3%A4derach-4383319274?position=9&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Q5FP1jiHTe7v7TP1i2UQOQ%3D%3D",
-        "title": "Senior PowerBI & DWH Spezialist",
-        "subtitle": "Läderach",
-        "location": "Póvoa de Varzim e Região",
-        "benefits": "Seja um dos primeiros a se candidatar"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/intelligence-business-analyst-at-sovos-4380973909?position=10&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=7BN%2Fmgxkr9yi%2FCYPwu9tig%3D%3D",
-        "title": "Intelligence Business Analyst",
-        "subtitle": "Sovos",
-        "location": "Porto, Portugal",
-        "benefits": "Contratando agora"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-french-speaker-at-dellent-4378782360?position=11&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Np5HZkopdL938lS7clRSiw%3D%3D",
-        "title": "Data Analyst (French Speaker)",
+        "link": "https://pt.linkedin.com/jobs/view/qa-engineer-manual-at-dellent-4392132434?position=1&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=QgWATE5xlZyH1JvEqg2ENw%3D%3D",
+        "title": "QA Engineer (Manual)",
         "subtitle": "Dellent",
         "location": "Porto, Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/business-systems-analyst-at-kantar-4377956288?position=12&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=IfvHstSxMyMfucywh203Mw%3D%3D",
-        "title": "Business Systems Analyst",
-        "subtitle": "Kantar",
+        "link": "https://pt.linkedin.com/jobs/view/java-software-developer-porto-at-sysmatch-4388786934?position=2&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=iPzdDMzSVAKIHA8VY6ATxw%3D%3D",
+        "title": "Java Software Developer - Porto",
+        "subtitle": "Sysmatch",
         "location": "Porto, Porto, Portugal",
-        "benefits": "Contratando agora"
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-technical-customer-services-emea-at-continental-4378349507?position=13&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=5xqqWsgwNMujq89DKug%2FZw%3D%3D",
-        "title": "Data Analyst - Technical Customer Services EMEA",
-        "subtitle": "Continental",
-        "location": "Lousado, Braga, Portugal",
-        "benefits": "Contratando agora"
-      },
-      {
-        "link": "https://pt.linkedin.com/jobs/view/data-visualization-engineer-at-celfocus-4385949194?position=14&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=HOu4XZl5eJIzsPGBIBh%2BHQ%3D%3D",
-        "title": "Data Visualization Engineer",
-        "subtitle": "Celfocus",
+        "link": "https://pt.linkedin.com/jobs/view/software-developer-sql-grafana-porto-at-sysmatch-4394657047?position=3&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=Pia3as5YLiXAE%2BviFXTHDg%3D%3D",
+        "title": "Software Developer (Sql & Grafana) - Porto",
+        "subtitle": "Sysmatch",
         "location": "Porto, Porto, Portugal",
-        "benefits": "Contratando agora"
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-french-speaker-at-primeit-4392673535?position=15&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Nv7wc6C7UVql7aTFMxUBrQ%3D%3D",
-        "title": "Data Analyst (French Speaker)",
-        "subtitle": "PrimeIT",
+        "link": "https://pt.linkedin.com/jobs/view/software-engineer-at-k%C3%B6rber-3664127929?position=4&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=Y82Qv44pC31mlfX9iTQOKw%3D%3D",
+        "title": "Software Engineer",
+        "subtitle": "Körber",
+        "location": "Maia, Porto, Portugal",
+        "benefits": "Contratando agora",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/software-engineer-at-k%C3%B6rber-3654725849?position=5&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=cFBgRFxyE%2BaMF%2FOMzcszGg%3D%3D",
+        "title": "Software Engineer",
+        "subtitle": "Körber",
+        "location": "Maia, Porto, Portugal",
+        "benefits": "Contratando agora",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/fullstack-developer-at-inetum-4219662190?position=6&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=S8vfthvayZqvH0n8zK4Ncg%3D%3D",
+        "title": "Fullstack Developer",
+        "subtitle": "Inetum",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Contratando agora",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/embedded-systems-developer-at-dsr-corporation-4289929246?position=7&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=7wOdrboeBDtqmEZt9vvrRw%3D%3D",
+        "title": "Embedded Systems Developer",
+        "subtitle": "DSR Corporation",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/mid-c%23-net-developer-at-dellent-4379855557?position=8&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=OtTHRS2a57Mf8puzdsxtjw%3D%3D",
+        "title": "Mid C#. NET Developer",
+        "subtitle": "Dellent",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/net-mobile-developer-at-noesis-4372731265?position=9&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=5oSj2zSAj9kbCFYQLfNK9w%3D%3D",
+        "title": ".NET & Mobile Developer",
+        "subtitle": "Noesis",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/python-developer-at-inetum-4317334899?position=10&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=VsGFfiFaKNqJogG0ZIIahA%3D%3D",
+        "title": "Python Developer",
+        "subtitle": "Inetum",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Contratando agora",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/developer-engineer-at-k%C3%B6rber-3822908031?position=11&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=9As33I%2Bt%2BrrScmfxUU2y9g%3D%3D",
+        "title": "Developer Engineer",
+        "subtitle": "Körber",
+        "location": "Maia, Porto, Portugal",
+        "benefits": "Contratando agora",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/back-end-developer-at-kcs-it-4385682631?position=12&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=KxTtg0pwzZQAqf2g8YHVzQ%3D%3D",
+        "title": "Back End Developer",
+        "subtitle": "KCS iT",
         "location": "Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4390399783?position=16&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=NQa6s57NJlBB7QWz4o0vnQ%3D%3D",
-        "title": "AI Trainer - Freelance Data Annotator",
-        "subtitle": "Toloka Annotators",
+        "link": "https://pt.linkedin.com/jobs/view/senior-software-developer-c%23-net-at-match-profiler-4384827228?position=13&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=30ErOb%2F0MT0tJpBwuw0A8Q%3D%3D",
+        "title": "Senior Software Developer - C# .Net",
+        "subtitle": "Match Profiler",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/full-stack-software-engineer-at-capital-on-tap-4362336649?position=14&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=tinLUrka3cZWVp9RZQzqzw%3D%3D",
+        "title": "Full Stack Software Engineer",
+        "subtitle": "Capital on Tap",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/software-engineer-m-f-d-at-sofico-4235612606?position=15&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=kr0YEcGXfj3Yi07UAg1MwQ%3D%3D",
+        "title": "Software Engineer (m/f/d)",
+        "subtitle": "SOFICO",
         "location": "Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
+        "benefits": "",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/technical-reporting-analyst-m-f-at-eurofins-4366738030?position=17&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=y2XVRFVvsULDw4Aivh5hCQ%3D%3D",
-        "title": "Technical & Reporting Analyst (M/F)",
-        "subtitle": "Eurofins",
-        "location": "Paredes, Porto, Portugal",
-        "benefits": "Contratando agora"
+        "link": "https://pt.linkedin.com/jobs/view/software-engineer-m-f-d-at-sofico-4373445963?position=16&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=d9OhFt%2BCTikVf2RQtLc1%2Fg%3D%3D",
+        "title": "Software Engineer (m/f/d)",
+        "subtitle": "SOFICO",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/financial-data-analyst-internship-french-speaker-f-m-x-at-mantu-4378162474?position=18&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=Y154f0UniQQ1S7BNwmrg1Q%3D%3D",
-        "title": "Financial Data Analyst - Internship (French Speaker) [F/M/X]",
-        "subtitle": "Mantu",
-        "location": "Porto, Portugal",
-        "benefits": "Contratando agora"
+        "link": "https://pt.linkedin.com/jobs/view/an%C3%BAncio-de-emprego-net-software-developer-at-kcs-it-4245205167?position=17&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=6AhnpD1WYxaDaG2LpOZmng%3D%3D",
+        "title": "Anúncio de emprego: .Net Software Developer",
+        "subtitle": "KCS iT",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/data-engineer-m-f-at-cjr-renewables-4379190387?position=19&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=NGixDJ%2F%2BoCUqp9eeMrwPzQ%3D%3D",
-        "title": "Data Engineer (M/F)",
-        "subtitle": "CJR Renewables",
-        "location": "Porto, Portugal",
-        "benefits": "Contratando agora"
+        "link": "https://pt.linkedin.com/jobs/view/senior-software-developer-c-net-at-match-profiler-4387816887?position=18&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=M2y4uHMRgpqdj4TuRxgmng%3D%3D",
+        "title": "Senior Software Developer - C .Net",
+        "subtitle": "Match Profiler",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       },
       {
-        "link": "https://pt.linkedin.com/jobs/view/data-analyst-marketing-analytics-bangkok-based-relocation-provided-at-agoda-4299778259?position=20&pageNum=0&refId=1SYeyNbxu4uaQ6nsaLR4xA%3D%3D&trackingId=EFI5RSuODKlbN2I2o2jqlg%3D%3D",
-        "title": "Data Analyst (Marketing Analytics, Bangkok Based, Relocation provided)",
-        "subtitle": "Agoda",
-        "location": "Porto, Portugal",
-        "benefits": "Seja um dos primeiros a se candidatar"
+        "link": "https://pt.linkedin.com/jobs/view/software-developer-business-central-at-ls-retail-4393912528?position=19&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=OglI71xzirV%2FlPIthFnS5A%3D%3D",
+        "title": "Software Developer (Business Central)",
+        "subtitle": "LS Retail",
+        "location": "Póvoa de Varzim e Região",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
+      },
+      {
+        "link": "https://pt.linkedin.com/jobs/view/full-stack-developer-c%23-%2B-wpf-at-dellent-4389076835?position=20&pageNum=0&refId=KpyhicOJiDZ%2Bj2w7jm1rGw%3D%3D&trackingId=Zs%2FL2aSKZ2y7PPP6rWr1HQ%3D%3D",
+        "title": "Full-Stack Developer (C# + WPF)",
+        "subtitle": "Dellent",
+        "location": "Porto, Porto, Portugal",
+        "benefits": "Seja um dos primeiros a se candidatar",
+        "origin": "linkedin"
       }
     ],
-    "timestamp": "2026-03-29T15:08:42.645Z"
+    "timestamp": "2026-04-01T22:28:46.869Z"
+  },
+  "netempregos": {
+    "jobsScraped": [
+      {
+        "link": "https://www.net-empregos.com/15237010/full-stack-developer-net-angular-hybrid-porto/",
+        "title": "Full-stack Developer .NET/Angular - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15237016/full-stack-developer-net-angular-hybrid-porto/",
+        "title": "Full-stack Developer .NET/Angular - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/14939398/web-software-developer-m-f-porto/",
+        "title": "Web & Software Developer (M/F) - Porto",
+        "subtitle": "Smile.Up - Clínicas Dentárias",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15150094/oracle-soa-developer-junior-porto-hybrid/",
+        "title": "Oracle SOA Developer – Júnior (Porto - Hybrid)",
+        "subtitle": "CLARANET",
+        "location": "( Todas as Zonas )",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15231400/developer-java-senior-hybrid-porto/",
+        "title": "Developer Java Senior - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15231376/-net-developer-hybrid-porto/",
+        "title": ".NET developer - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15161786/senior-net-developer-hybrid-porto/",
+        "title": "Senior .NET Developer - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15205212/senior-java-angular-developer-hybrid-lisbon-orporto/",
+        "title": "Senior Java/Angular Developer - Hybrid (Lisbon orPorto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15110934/senior-backend-developer-java-hybrid-porto/",
+        "title": "Senior backend developer java - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      },
+      {
+        "link": "https://www.net-empregos.com/15111008/c-net-developer-eng-hybrid-porto/",
+        "title": "C# .Net Developer ENG - Hybrid (Porto)",
+        "subtitle": "Match Profiler",
+        "location": "Porto",
+        "benefits": "",
+        "origin": "netempregos"
+      }
+    ],
+    "timestamp": "2026-04-01T22:28:57.509Z"
   }
 }

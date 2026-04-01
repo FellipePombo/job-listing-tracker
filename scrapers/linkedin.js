@@ -30,6 +30,7 @@ module.exports = async (page, params) => {
 
         const benefits= await metadata.$('.job-posting-benefits__text');
         jobScraped["benefits"]  = benefits ? await benefits.evaluate(el => el.innerText) : "";
+        jobScraped["origin"] = "linkedin";
         jobsScraped.push(jobScraped);
         i++;
       }
